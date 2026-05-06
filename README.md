@@ -19,71 +19,93 @@ Building real-time web apps, mobile products, and practical AI features.
 
 ## About Me
 
-I am a Computer Science student, expected to graduate in 2026, with a strong interest in building products that combine clean user interfaces, reliable backend systems, and intelligent features.
+<div align="center">
 
-My current focus is full-stack development with React, TypeScript, Node.js, Express, Socket.io, MongoDB, and Flutter. I also work with AI/ML workflows using YOLOv8, TensorFlow Lite, MobileNetV2, and OpenCV for mobile and computer vision projects.
+### I build real-time, mobile, and AI-powered products.
 
-```yaml
-name: Nguyen Dinh Quan
-location: Da Nang City, Vietnam
-education: Computer Science, Vietnam-Korea University of ICT
-gpa: 3.0 / 4.0
-focus: Full-Stack Development, Mobile Apps, AI/ML Integration
-status: Open to Internship / Fresher Developer opportunities in 2026
-```
+I enjoy turning product ideas into working systems: polished interfaces, practical backend APIs, real-time user experiences, and AI features that solve clear problems.
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**2026 Computer Science Graduate**  
+Vietnam-Korea University of Information Technology and Communications  
+GPA: `3.0 / 4.0`
+
+</td>
+<td width="50%" valign="top">
+
+**Full-Stack Product Builder**  
+React, TypeScript, Node.js, Express, Socket.io, MongoDB, Flutter
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Real-Time Systems Focus**  
+Workspace chat, channels, presence tracking, task sync, voice/video infrastructure
+
+</td>
+<td width="50%" valign="top">
+
+**AI/ML Integration**  
+YOLOv8, TensorFlow Lite, MobileNetV2, OpenCV, Firebase, practical mobile AI workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="25%">
+### Core Languages
 
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend & Mobile
 
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</td>
-<td valign="top" width="25%">
+### Backend & Realtime
 
-### Backend & API
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### AI/ML & Data
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=python&logoColor=black)
-![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=python&logoColor=black)
+![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-</td>
-</tr>
-</table>
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -92,6 +114,10 @@ status: Open to Internship / Fresher Developer opportunities in 2026
 ### Real-time Collaboration Platform
 
 Full-stack workspace collaboration platform with real-time chat, channels, task management, polls, events, file upload, and voice/video infrastructure.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-website_chat_task_realtime-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://website-chat-task-realtime.vercel.app/)
+[![Client Repo](https://img.shields.io/badge/Client-Website_chat_task_realtime-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quandangiu/Website_chat_task_realtime)
+[![Server Repo](https://img.shields.io/badge/Server-server_chat_realtime-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quandangiu/server-chat-realtime-)
 
 **Frontend:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `React Query` `Socket.io Client`  
 **Backend:** `Node.js` `Express` `TypeScript` `Socket.io` `MongoDB` `Redis` `JWT` `Cloudinary` `OpenAI`
@@ -111,6 +137,8 @@ Full-stack workspace collaboration platform with real-time chat, channels, task 
 
 Mobile AI app that detects fashion items and recommends outfits based on weather, location, and event context.
 
+[![Repository](https://img.shields.io/badge/Repository-AppYoloV8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/professorNhan-2824/AppYoloV8)
+
 `Flutter` `Python` `YOLOv8` `OpenCV` `Firebase` `TensorFlow Lite` `REST API`
 
 - Built a real-time fashion detection pipeline using a custom YOLOv8 model and OpenCV preprocessing.
@@ -123,6 +151,8 @@ Mobile AI app that detects fashion items and recommends outfits based on weather
 ### Bird Recognition Mobile App
 
 Mobile app for real-time bird species recognition using on-device image classification.
+
+[![Repository](https://img.shields.io/badge/Repository-appFlutter-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/professorNhan-2824/appFlutter)
 
 `Flutter` `Python` `TensorFlow Lite` `MobileNetV2` `Node.js` `Express` `MongoDB` `JWT`
 
