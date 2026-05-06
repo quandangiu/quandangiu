@@ -1,13 +1,13 @@
 <div align="center">
 
-# Nguyen Dinh Quan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nguyen%20Dinh%20Quan&fontSize=70&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20%26%20Web%20%7C%20AI%2FML%20Explorer&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%" />
 
-### Full-Stack Developer | Mobile & Web | AI/ML Explorer
-
-Computer Science student at Vietnam-Korea University of Information Technology and Communications  
-Building real-time web apps, mobile products, and practical AI features.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Mobile+%26+Web+Builder;Real-time+Systems+Explorer;AI%2FML+Integration+Learner;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <br/>
+<br/>
+
+Computer Science student building real-time web apps, mobile products, and practical AI features.
 
 [![Email](https://img.shields.io/badge/Email-quandinh3011%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quandinh3011@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-quandangiu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quandangiu)
@@ -15,63 +15,42 @@ Building real-time web apps, mobile products, and practical AI features.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## About Me
 
 <div align="center">
-
-### I build real-time, mobile, and AI-powered products.
-
-I enjoy turning product ideas into working systems: polished interfaces, practical backend APIs, real-time user experiences, and AI features that solve clear problems.
-
-</div>
-
-<br/>
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top" align="left">
 
-**2026 Computer Science Graduate**  
-Vietnam-Korea University of Information Technology and Communications  
-GPA: `3.0 / 4.0`
-
-</td>
-<td width="50%" valign="top">
-
-**Full-Stack Product Builder**  
-React, TypeScript, Node.js, Express, Socket.io, MongoDB, Flutter
+- I am a **Computer Science student** at **Vietnam-Korea University of ICT**, expected to graduate in **2026**.
+- Personal info: **Male**, born **30/11/2004**, based in **Da Nang City, Vietnam**.
+- I enjoy building products that combine **clean UI**, **reliable APIs**, **real-time interaction**, and **AI-assisted features**.
+- I am currently focused on **React**, **TypeScript**, **Node.js/Express**, **Socket.io**, **MongoDB**, **Flutter**, and practical **AI/ML integration**.
+- Goal: become a developer who can turn ideas into usable, maintainable, real-world products.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" align="center">
 
-**Real-Time Systems Focus**  
-Workspace chat, channels, presence tracking, task sync, voice/video infrastructure
-
-</td>
-<td width="50%" valign="top">
-
-**AI/ML Integration**  
-YOLOv8, TensorFlow Lite, MobileNetV2, OpenCV, Firebase, practical mobile AI workflows
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="About me coding animation" width="260" />
 
 </td>
 </tr>
 </table>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## Tech Stack
+## Tech Stack & Skills
 
-### Core Languages
+### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-550%2B%20hours-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strong%20Typing-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI%20%26%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-OOP%20Foundation-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Flutter%20Apps-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend & Mobile
 
