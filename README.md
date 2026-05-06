@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/a9559c3d-1457-4cd4-b18b-f9400729c5a2" alt="Profile banner" width="100%" />
+<img src="./assets/profile-banner.png" alt="Nguyen Dinh Quan profile banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Mobile+%26+Web+Builder;Real-time+Systems+Explorer;AI%2FML+Integration+Learner;Always+Learning+%26+Building" alt="Typing SVG" />
 
