@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/a9559c3d-1457-4cd4-b18b-f9400729c5a2" />
-?type=waving&color=timeGradient&height=250&section=header&text=Nguyen%20Dinh%20Quan&fontSize=70&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20%26%20Web%20%7C%20AI%2FML%20Explorer&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%" />
+<img src="https://github.com/user-attachments/assets/a9559c3d-1457-4cd4-b18b-f9400729c5a2" alt="Profile banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Mobile+%26+Web+Builder;Real-time+Systems+Explorer;AI%2FML+Integration+Learner;Always+Learning+%26+Building" alt="Typing SVG" />
 
